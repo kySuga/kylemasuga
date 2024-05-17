@@ -12,7 +12,7 @@ export default function Home() {
           height={400}
         />
       </div>
-      <div className="container">
+      <div className="container description">
         <p>
           I’m a Jack of many trades, currently bustling as a frontend web
           developer, utilizing best practices and keeping the code clean and
@@ -23,7 +23,8 @@ export default function Home() {
           In my free time I enjoy hiking or biking in the mountains, playing
           tennis, getting creative making designs in Affinity Designer, or
           continue learning to play the ukulele, all among many other varied
-          interests. I guess you could say, I’m a Jack of many interests.
+          interests not mentioned. I guess you could say, I’m also a Jack of
+          many interests.
         </p>
       </div>
     </main>
