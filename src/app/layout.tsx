@@ -6,7 +6,7 @@ import Footer from "./components/footer";
 const manrope = Manrope({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Kyle Masuga | kylemasuga.com",
+  title: "Kyle Masuga | kysuga.com",
   description:
     "Kyle Masuga is passionate about Mother Nature and being active outdoors. His day job is as a frontend web developer.",
 };
